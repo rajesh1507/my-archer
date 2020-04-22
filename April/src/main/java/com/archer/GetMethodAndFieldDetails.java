@@ -4,7 +4,10 @@ package com.archer;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
-public class HelloWorld {
+
+
+
+public class GetMethodAndFieldDetails {
     public static void main( String[] args ) {
         System.out.println( "Hello World!" );
         Student s1 = new Student();
