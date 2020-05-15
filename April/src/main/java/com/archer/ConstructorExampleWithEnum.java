@@ -3,7 +3,7 @@ package com.archer;
 
 
 enum Days{
-    SUNDAY("1"), MONDAY("1"), TUESDAY("1"), WEDNESDAY("1"), THURSDAY("1"), FRIDAY("1"), SATURDAY("1");
+    SUNDAY("1"), MONDAY("2"), TUESDAY("3"), WEDNESDAY("4"), THURSDAY("5"), FRIDAY("6"), SATURDAY("7");
 
     private String action;
 
